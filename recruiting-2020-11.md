@@ -49,7 +49,7 @@
         - 一年以上設計與實作 web service 的工作經驗
     
     - 期望能力
-        - 熟悉 HTML/CSS/JS，包含每年 EMCAScript 新的規範
+        - 熟悉 HTML/CSS/JS，包含每年 ECMAScript 新的規範
         - 熟悉網頁前端的除錯流程與工具
         - 熟悉網頁前端的效能評估與記憶體管理
         - 使用過前端 frameworks，例如 Vue, Angular, React 等
