@@ -16,13 +16,13 @@
 
     - 需求
         - 大學就讀資訊相關科系或於類似領域有同等經歷
-        - 一年以上設計與實作分散式系統與 web service 的工作經驗
 
     - 期望能力
         - 熟悉 HTTP, HTML, TCP/IP 及 Restful API 設計
         - 熟悉 Python 程式語言，有使用過 web framework (Django/Flask) 等相關經驗
         - 熟悉資料庫 (SQL 或 NoSQL) 管理與操作
         - 熟悉 git, ssh, linux 與 UNIX shell 上的各種操作
+        - 加分條件: 一年以上設計與實作分散式系統與 web service 的工作經驗
         - 加分條件: 有 AWS 相關的使用經驗或獨立建置過大型的分散式系統
         - 加分條件: 有處理過網路安全問題的經驗，例如: SQL Injection, XSS, CSRF 等
         - 加分條件: 有 CI/CD 相關經驗
@@ -46,7 +46,6 @@
     
     - 需求
         - 大學就讀資訊相關科系或於類似領域有同等經歷
-        - 一年以上設計與實作 web service 的工作經驗
     
     - 期望能力
         - 熟悉 HTML/CSS/JS，包含每年 ECMAScript 新的規範
@@ -54,6 +53,7 @@
         - 熟悉網頁前端的效能評估與記憶體管理
         - 使用過前端 frameworks，例如 Vue, Angular, React 等
         - 熟悉 git 的使用
+        - 加分條件: 一年以上設計與實作 web service 的工作經驗
         - 加分條件: 對於網頁服務的網路安全(例如:XSS/CSRF)等有一定的了解
         - 加分條件: 熟悉 Webpack 或其他類似的工具
     
